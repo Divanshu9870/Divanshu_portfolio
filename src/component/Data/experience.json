@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "role": "Frontend Developer",
+    "organisation": "Tata Consultancy Services",
+    "startDate": "Sept, 2022",
+    "endDate": "Present",
+    "location": "Bangalore, India",
+    "experiences": [
+      "Working for EY's",
+      "Added multiple features in EY's application in React"
+    ],
+    "imageSrc": "company/google.png"
+  },
+
+  {
+    "id": 3,
+    "role": "Web Developer - Intern",
+    "organisation": "Netflix",
+    "startDate": "Feb, 2022",
+    "endDate": "July, 2022",
+    "location": "Bengluru, India",
+    "experiences": [
+      "Created E-commerce UI with the HTML CSS and Bootstrap",
+      "Created todo list app in Javascript",
+      "Created ImageSearch app through API with the React,Javascript",
+      "Created E-commerce app with full functionality with the react, JS,Bootstrap"
+
+    ],
+    "imageSrc": "company/netflix.png"
+  }
+]

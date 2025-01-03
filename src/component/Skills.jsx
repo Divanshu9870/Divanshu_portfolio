@@ -2,7 +2,6 @@ import React from 'react'
 import skill from './data/skills.json'
 
 function Skills() {
-  console.log(skill)
   return (
     <div className='container skills' id='skills'>
 

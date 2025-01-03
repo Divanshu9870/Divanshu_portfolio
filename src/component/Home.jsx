@@ -1,6 +1,6 @@
 import React, { useRef,useEffect} from 'react'
 import pdf from '../pdf/Resume.pdf'
-import hero from './Data/Hero.json'
+import hero from './Data/hero.json'
 import Typed from 'typed.js'
 
 function Home() {

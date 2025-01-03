@@ -1,5 +1,5 @@
 import React from 'react'
-import skill from './data/skills.json'
+import skill from './Data/skills.json'
 
 function Skills() {
   return (

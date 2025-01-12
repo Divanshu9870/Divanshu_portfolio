@@ -11,9 +11,9 @@ function Experience() {
   {
     experience && experience.map((ele,ind)=>{
         return <div key={ind} className='ex-items text-center' data-aos="zoom-in" data-aos-duration='1000' >
-            <div className='left'>
+            {/* <div className='left'>
                 <img src={`/assets/${ele.imageSrc}`} alt='' />
-            </div>
+            </div> */}
             <div className='right'>
                 <h2>{ele.role}</h2>
                 <h4>

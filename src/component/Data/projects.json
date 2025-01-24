@@ -9,11 +9,11 @@
   },
   {
     "key": 2,
-    "title": "MERN Blogging",
+    "title": "Image Search App",
     "imageSrc": "https://cdn.pixabay.com/photo/2017/05/02/15/30/streets-2278471_640.jpg",
-    "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a Image search app where we can search anything and get the result related to it. This is the app in which data is fetching through the API and rendered it to the component",
+    "demo": "https://imagesearch-nu.vercel.app/",
+    "source": "https://github.com/Divanshu9870/ImageSearch"
   },
   {
     "key": 3,

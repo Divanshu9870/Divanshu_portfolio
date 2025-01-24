@@ -3,7 +3,7 @@ import React from 'react'
 function Navbar() {
   return (
     <>
-    <div className='container nav_bar' data-aos='fade-down' data-aos-duration='1500'>
+    <div collapseOnSelect expand='sm' className='container nav_bar' data-aos='fade-down' data-aos-duration='1500'>
         <div className='left nav_items'>PORTFOLIO</div>
         <div className='right'>
             <a href="#home" className="nav_items nav_hover  ">Home</a>

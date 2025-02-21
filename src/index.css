@@ -16,7 +16,7 @@ a{
   justify-content: space-between;
   align-items: center;
 }
-.nav_bar .nav_items{
+.nav_items{
   padding: 16px;
   font-size: 1.4rem;
   font-weight: bold;
@@ -90,43 +90,45 @@ a{
 }
 /* Experience Section */
 
-.ex {
+/* .ex {
   width: 900px;
-}
+} */
 
 .ex-items {
-  display: flex;
-  justify-content: space-around;
+  
+ justify-content: space-around;
   align-items: center;
   background-color: var(--bg-color);
-  margin: 20px;
+  
   padding: 30px;
-  width: 800px;
+ 
   border-radius: 10px;
   border: 1px solid yellow;
   box-shadow: var(--box-shadow);
-  margin-left: 150px;
-  margin-top: 30px;
+  /* margin-left: 150px;
+  margin-top: 30px; */
 }
 
 /* Skills */
 
 .skills {
-  width: 900px;
+  /* width: 900px; */
+  margin-top: 25px;
 }
 
 .skills .items {
-  display: flex;
+ 
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
   /* width: 800px; */
-  margin: auto;
+  /* margin: auto; */
   /* background-color: yellow; */
 }
 
 .skills .items .item {
-  width: calc(33.33%);
+  width: calc(40.44%);
+  height: 250px;
   background-color: black;
   margin: 20px;
   text-align: center;
@@ -134,10 +136,14 @@ a{
   border-radius: 10px;
   border: 1px solid yellow;
   box-shadow: var(--box-shadow);
+ 
+  
+
 }
 
 .skills .items .item img {
-  width: 90px;
+  width: 100px;
+  margin-top: 25px;
 }
 
 /* Contact */

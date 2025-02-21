@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react'
-import Navbar from './component/Navbar'
+import Navbar1 from './component/Navbar1'
+
 
 import './App.css'
 import Home from './component/Home'
@@ -18,7 +19,7 @@ useEffect(()=>{
 },[])
   return (
     <>
-    <Navbar/>
+    <Navbar1/>
     <Home/>
     <Experience/>
     <Skills/>

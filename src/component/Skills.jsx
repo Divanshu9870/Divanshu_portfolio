@@ -14,7 +14,7 @@ function Skills() {
       
       <Row className="justify-content-center items">
         {skill.map((card, index) => (
-          <Col key={index} xs={12} md={4} className="mb-4 item" data-aos="flip-left" data-aos-duration='1000' style={{}}>
+          <Col key={index} xs={6} md={4} className="mb-4 item" data-aos="flip-left" data-aos-duration='1000' style={{}}>
             
             {/* <div className='item' key={index} data-aos="flip-left" data-aos-duration='1000'> */}
           <img src={`/assets/${card.imageSrc}`} />

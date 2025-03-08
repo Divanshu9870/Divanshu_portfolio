@@ -17,11 +17,11 @@
   },
   {
     "key": 3,
-    "title": "React Recipe",
+    "title": "To-do App",
     "imageSrc": "https://cdn.pixabay.com/photo/2016/08/16/17/12/skyscrapers-1598418_640.jpg",
-    "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "The To-Do App uses React and Redux Toolkit for efficient state management, allowing users to add, delete, tasks with persistence, and responsive UI for seamless task management. 🚀",
+    "demo": "https://todo-app-nine-pi-89.vercel.app/",
+    "source": "https://github.com/Divanshu9870/Todo_app"
   },
   {
     "key": 4,
